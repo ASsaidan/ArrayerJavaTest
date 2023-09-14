@@ -1,0 +1,17 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Üõùùÿÿÿÿ8İÊ©œ©1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì®¶8İÊ©œ©1
+7
+java:S1220""Move this file to a named package.8ŞÊ©œ©1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8åÊ©œ©1
+L	java:S106	"+Replace this use of System.out by a logger.(ß˜İÏüÿÿÿÿ8èÊ©œ©1
+L	java:S106"+Replace this use of System.out by a logger.(çôÛùÿÿÿÿ8èÊ©œ©1
+G	java:S106"+Replace this use of System.out by a logger.(ûåÈÚ8èÊ©œ©1
+G	java:S106"+Replace this use of System.out by a logger.(§Ó˜À8èÊ©œ©1
+L	java:S106"+Replace this use of System.out by a logger.(­‰†åşÿÿÿÿ8éÊ©œ©1
+L	java:S106 "+Replace this use of System.out by a logger.(¾Çíÿÿÿÿÿ8éÊ©œ©1
+G	java:S106$"+Replace this use of System.out by a logger.(“›®è8éÊ©œ©1
+G	java:S106("+Replace this use of System.out by a logger.(à´º·8éÊ©œ©1
+G	java:S106*"+Replace this use of System.out by a logger.(ûåÈÚ8éÊ©œ©1
+G	java:S106-"+Replace this use of System.out by a logger.(Çœ‹8éÊ©œ©1

@@ -42,7 +42,7 @@ public class test3 {
                         System.out.println(produkt);
                     }
                 } else {
-                    System.out.println("Varan du vill byta finns inte i listan.");
+                    System.out.println("Varan du vill byta finns inte med i listan.!!"); //Skriver ut
                 }
             }
         }
